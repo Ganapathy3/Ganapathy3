@@ -40,9 +40,21 @@
 
 ### 📊 GitHub Stats
 
-![Ganapathy3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganapathy3&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganapathy3&theme=tokyonight" alt="Ganapathy3 GitHub Summary" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapathy3&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ganapathy3&theme=tokyonight" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ganapathy3&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganapathy3&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ganapathy3&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ganapathy3&theme=tokyonight&hide_border=true)
 
@@ -55,4 +67,3 @@
 ---
 
 > _Working from home, writing code, and building the future — one commit at a time._ 🏠💻
-
