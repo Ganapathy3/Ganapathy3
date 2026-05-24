@@ -4,7 +4,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,angular,html,css,js,git,github)](https://skillicons.dev)
 
-💭 Dreaming of building something that makes a real difference someday (probably after one more cup of chai ☕)
+💭 Dreaming of building something that makes a real difference someday (probably after one more cup of chai ☕),
 
 ---
 
@@ -14,7 +14,7 @@
 - 🎯 Aspiring to become a **Full Stack Developer** & **Software Architect**
 - 💡 Specializing in **Backend, Frontend, and API Development**
 - ⚙️ Tech Stack: **Java, Spring Boot, Angular, HTML, CSS, JavaScript, Git**
-- 🌱 Currently exploring **Spring Boot microservices & Angular best practices**
+- 🌱 Currently exploring **Spring Boot,Spring Ai,microservices & Angular best practices**
 - 💬 Ask me about **building REST APIs and Spring Boot applications**
 
 ---
