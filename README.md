@@ -2,7 +2,7 @@
 
 ### A passionate Software Developer 🚀
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,angular,html,css,js,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,angular,html,css,js,git,github,docker)](https://skillicons.dev)
 
 💭 Dreaming of building something that makes a real difference someday (probably after one more cup of chai ☕),
 
